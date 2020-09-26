@@ -1,0 +1,40 @@
+.color{
+		color: #8845f4;
+}
+.span{
+   color: #8845f4;
+}
+body{
+	  font-family: sans-serif;
+	  color: #777777;
+	  line-height: 26px;
+}
+.half-width{
+  width: 50%;
+  float: left;
+}
+.side-img{
+  width: 50%;
+  padding-left: 25%;
+}
+h1 { 
+  font-size: 2.5em;
+}
+.primary-btn{
+		color: white;
+		background-color: #8845f4;
+		text-decoration: none;
+		padding: 13px 42px;
+		border-radius: 20px;
+}
+}
+.cntainer{
+  padding-left: 5%;
+  display: inline-block;
+}
+.experience{
+  padding: 30px;
+  margin: 30px;
+  background-color: white;
+  border-radius: 20px;
+}
